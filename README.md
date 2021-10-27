@@ -1,7 +1,4 @@
-<center>
-<h1>SMARTY</h1>
-</center>
-<hr>
+# SMARTY
 
 Smarty is a smart Calculator. It will do math operation
 like shown in below image.
